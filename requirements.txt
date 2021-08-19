@@ -1,0 +1,4 @@
+PyGithub==1.55
+colorama~=0.4.4
+wget~=3.2
+requests~=2.26.0
